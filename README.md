@@ -2,7 +2,7 @@
 
 ## Deep Learning-Based Food Calorie Estimation
 
-The main objective of the project was to estimate calories using PixelLib library and Mask-RCNN algorithm. [ECUSTFD](https://github.com/Liang-yc/ECUSTFD-resized-) was the dataset used in this project. It is a free public food image dataset.
+The main objective of the project was to estimate calories. This was achieved by using PixelLib library and Mask-RCNN algorithm. [ECUSTFD](https://github.com/Liang-yc/ECUSTFD-resized-) was the dataset used in this project. It is a free public food image dataset.
 
 ### *Approach*
 
